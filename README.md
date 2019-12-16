@@ -1,4 +1,4 @@
-Demo: https://cranky-hawking-b20263.netlify.com/
+Demo: https://cranky-hawking-b20263.netlify.com/ if does not work due to api blocker, try locally by
 
 
 Install:
