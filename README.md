@@ -8,6 +8,6 @@
 
 # Screenshots
 
-![Search]('search.JPG')
+![Search](search.JPG)
 
-![Home]('overview.JPG')
+![Home](overview.JPG)
