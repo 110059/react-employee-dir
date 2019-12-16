@@ -55,7 +55,7 @@ class Overview extends React.Component {
         return (<h1>Error</h1>)  
       } else {
          return ( 
-         <main>   
+         <main className="mx-2 my-2">   
          <a class="btn btn-success" href="/" role="button">Back</a>          
          <table className="table table-striped table-dark col-4 align-items-center my-1">
          <thead>

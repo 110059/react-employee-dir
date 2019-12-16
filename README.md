@@ -1,9 +1,13 @@
-Demo: https://cranky-hawking-b20263.netlify.com/ if does not work due to api blocker, try locally by
+# Demo: https://cranky-hawking-b20263.netlify.com/ if does not work due to api blocker, try locally by
 
 
-Install:
+# Install:
 
-> npm install
+* npm install
+* npm start
 
+# Screenshots
 
-> npm start
+![Search]('search.JPG')
+
+![Home]('overview.JPG')

@@ -39,7 +39,7 @@ class Home extends React.Component {
 
     render() {    
        return (
-        <main>
+        <main className="mx-2">
             <SearchForm
                 handleChange={this.handleChange}
                 data={this.state}
