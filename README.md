@@ -1,4 +1,9 @@
-npm install
+Demo: https://cranky-hawking-b20263.netlify.com/
 
 
-npm start
+Install:
+
+> npm install
+
+
+> npm start
